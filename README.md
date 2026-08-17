@@ -1,4 +1,4 @@
-# Music Library
+# My Music Library
 
 ![Music Library Thumbnail](./thumbnail.png)
 
