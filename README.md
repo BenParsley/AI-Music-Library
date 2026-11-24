@@ -3,7 +3,7 @@
 https://summer-art-c9c4.ben-parsley1.workers.dev
 
 ![demo](screenshots/demo.gif)
-![audio-demo](screenshots/audio-demo.mp4)
+![audio-demo](screenshots/audio-demo.mov)
 
 A beautifully designed, interactive music library application built with React and Vite. It allows users to browse their music collection, view albums and artists, play songs, and create custom selections.
 
