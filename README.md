@@ -1,6 +1,7 @@
 # My AI Music Library - https://shorturl.at/Ei77n
 
 ![demo](screenshots/demo.gif)
+
 https://github.com/user-attachments/assets/30cc969b-c922-475d-ab9b-5cc04dec7eac
 
 https://github.com/user-attachments/assets/66da87c6-2714-48e9-a52c-837a517bbfc4
