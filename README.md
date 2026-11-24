@@ -2,7 +2,9 @@
 
 ![demo](screenshots/demo.gif)
 https://github.com/user-attachments/assets/30cc969b-c922-475d-ab9b-5cc04dec7eac
+
 https://github.com/user-attachments/assets/66da87c6-2714-48e9-a52c-837a517bbfc4
+
 https://github.com/user-attachments/assets/31940b4f-960c-46ea-8163-2b5b72fc3536
 
 A beautifully designed, interactive music library application built with React and Vite. It allows users to browse their music collection, view albums and artists, play songs, and create custom selections.
