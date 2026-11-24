@@ -1,4 +1,4 @@
-# My Music Library - https://summer-art-c9c4.ben-parsley1.workers.dev
+# My AI Music Library - https://summer-art-c9c4.ben-parsley1.workers.dev
 
 ![demo](screenshots/demo.gif)
 
