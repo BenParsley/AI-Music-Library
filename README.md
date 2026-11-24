@@ -1,12 +1,9 @@
 # My AI Music Library - https://shorturl.at/Ei77n
 
 ![demo](screenshots/demo.gif)
-
-https://github.com/user-attachments/assets/a51d8967-cb22-4fdd-a570-bde6c1dd5f68
-
-https://github.com/user-attachments/assets/2e054a95-1b85-417d-bc44-a9842d5c6ab1
-
-https://github.com/user-attachments/assets/7ed1b78d-77f9-4ee8-9e89-c07f86f2145c
+https://github.com/user-attachments/assets/30cc969b-c922-475d-ab9b-5cc04dec7eac
+https://github.com/user-attachments/assets/66da87c6-2714-48e9-a52c-837a517bbfc4
+https://github.com/user-attachments/assets/31940b4f-960c-46ea-8163-2b5b72fc3536
 
 A beautifully designed, interactive music library application built with React and Vite. It allows users to browse their music collection, view albums and artists, play songs, and create custom selections.
 
